@@ -1,2 +1,18 @@
-# space-matters-doc-replicas
-Guiones faceless Ciencia Espacial RPM $5-10. Réplicas virales Space Matters Doc para YouTube sin cara. Guiones 10min con timestamps, B-roll NASA, voz IA grave, miniaturas CTR alto y 4 shorts por video. Evergreen, retención 60%+, listo para 1k subs + 4k horas / 10M Shorts. Monetización YPP 2026
+# Space Matters - Scripts Virales Faceless (RPM $5-10)
+
+Repositorio oficial de guiones réplica del canal Space Matters Doc.
+
+> Guiones de 10 min listos para grabar, voz IA grave, B-roll NASA, miniaturas CTR 12%+ y 4 Shorts virales por video. Evergreen. Retención 60%+
+
+### 🚀 Objetivo: 1K subs + 4K horas / 10M Shorts - Monetización YPP 2026
+
+#### Estructura de cada video:
+- HOOK 30s (retención)
+- TIMESTAMPS
+- B-ROLL NASA (sin copyright)
+- VOZ IA
+- CTA
+
+#### Videos:
+- VIDEO_01: El Sol morirá
+- VIDEO_02: Agujeros negros (próximamente)
